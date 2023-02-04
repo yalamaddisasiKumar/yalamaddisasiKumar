@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Web and Mobile app development using Angular, NativeScript, and Firebase.
+- 🔭 I’m currently working on Web and Mobile app development using React, React-Native, Angular, NativeScript, and Firebase.
 - 🌱 I love learning different aspects of computer science and mathematics concepts by applying the skills to practical applications.
 - ⚡ Fun fact: Do things simply and passionately.
 - 📫 Reach me: ysasikumar12345@gmail.com
